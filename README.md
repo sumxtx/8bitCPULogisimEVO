@@ -7,3 +7,4 @@ and other stuff in depth. Then i have planned to study kernel develoment.
 To build a nice fundamentals  and improve my programming with C/C++ 
 
 
+![28-09](https://github.com/sumxtx/8bitCPULogisimEVO/blob/main/2023-09-28_22-49.png)
